@@ -12,11 +12,17 @@ Users should be able to:
 
 - Hide/Show the answer to a question when the question is clicked. **Realizado**
 
-- Navigate the questions and hide/show answers using keyboard navigation alone: **Realizado**: he utilizado el evento onkeydown con las teclas **ArrowDown**,**ArrowUp** para navegar entre las filas del accordion y **Enter** para mostrar/ocultar el contenido de la fila del accordion.
+- Navigate the questions and hide/show answers using keyboard navigation alone:
 
-- View the optimal layout for the interface depending on their device's screen size: Proyecto responsivo en base a las medidas de las imagenes de diseño móvil y de escritorio.
+  **Realizado**: he utilizado el evento onkeydown con las teclas **ArrowDown**, **ArrowUp** para navegar entre las filas del accordion y **Enter** para mostrar/ocultar el contenido de la fila del accordion.
 
-- See hover and focus states for all interactive elements on the page:**Realizado**: Cambia color al hacer hover sobre el encabezado de cada fila del accordion o al desplazarse sobre cada fila usando el teclado el cual desaparece al hacer click sobre la fila o al presionar Enter sobre la fila.
+- View the optimal layout for the interface depending on their device's screen size:
+
+  Proyecto responsivo en base a las medidas de las imagenes de diseño móvil y de escritorio.
+
+- See hover and focus states for all interactive elements on the page:
+
+  **Realizado**: Cambia color al hacer hover sobre el encabezado de cada fila del accordion o al desplazarse sobre cada fila usando el teclado el cual desaparece al hacer click sobre la fila o al presionar Enter sobre la fila.
 
 ### Screenshots
 
@@ -30,4 +36,4 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Página Web Live](https://waldohidalgo.github.io/proyecto_4_faq_accordion_frontendmentor/)
