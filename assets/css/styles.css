@@ -143,10 +143,9 @@ Control acordeon
 
   overflow-y: hidden;
 
-  transition: height 0.4s ease-in-out;
+  transition: height 0.6s ease-in-out;
 }
 .activo {
-  overflow: visible;
 }
 /*
 Estilos Footer

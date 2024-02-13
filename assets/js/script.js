@@ -10,12 +10,14 @@ function activateClassActive() {
   );
   for (let nodoActivo of wrapper_acordion_row_contenido_activos) {
     nodoActivo.style.height = `${
-      nodoActivo.querySelector(".card_row_acordion_contenido").clientHeight
+      nodoActivo.querySelector(".card_row_acordion_contenido").offsetHeight
     }px`;
   }
 }
-document.addEventListener("DOMContentLoaded", activateClassActive);
 
+window.addEventListener("load", function () {
+  activateClassActive();
+});
 /*
 -----------------------
 */
